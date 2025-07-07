@@ -21,6 +21,49 @@ A real-time **2D simulation of our solar system** built using Python and the Pyg
 - **Pygame**
 - **Math** module
 
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install pygame
+Run the project:
+
+bash
+Copy
+Edit
+python SolarSystem.py
+Make sure you have a /planets folder with these images:
+
+space.png
+
+sun.png
+
+earth.png
+
+mars.png
+
+venus.png
+
+jupiter.png
+
+saturn_ring.png
+
+neptune.png
+
+uranus.png
+
+mercury.png
+
+🪐 Planetary Configuration
+Each planet is initialized with:
+
+distance from the sun
+
+orbital period
+
+image, angle, and position
+
 ## 🛠 Installation & Usage
 
 1. Clone the repository:
