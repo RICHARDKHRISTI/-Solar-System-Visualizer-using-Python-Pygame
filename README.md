@@ -68,5 +68,5 @@ image, angle, and position
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/solar-system-visualizer.git
+   git clone https://github.com/RICHARDKHRISTI/-Solar-System-Visualizer-using-Python-Pygame
    cd solar-system-visualizer
