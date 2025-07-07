@@ -12,7 +12,7 @@ A real-time **2D simulation of our solar system** built using Python and the Pyg
 
 ## 📸 Demo Preview
 
-> ![Solar System Visualizer Screenshot](./screenshots/demo.gif)  
+> ![Solar System Visualizer Screenshot](output.png)  
 > *A preview of the orbiting planets with trail paths*
 
 ## 🧠 Technologies Used
